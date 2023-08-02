@@ -19,8 +19,10 @@ Comenzamos definiendo en un espacio geométrico de forma puntual y simple las en
 
 **Masa** 
 > Compuesta por 5 puntos y una distancia de una unidad entre ellos
+
 **Rueda**
-> Compuesta por la función de un círculo y 3 líneas que se desprenden desde el centro hacia la circunferencia. 
+> Compuesta por la función de un círculo y 3 líneas que se desprenden desde el centro hacia la circunferencia.
+
 **Resorte**
 > Dado por puntos en una geometría abrierta, forma de ZigZag con la finalidad de hacerlo lo más simple representativamente. 
 
