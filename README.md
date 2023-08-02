@@ -27,10 +27,10 @@ Comenzamos definiendo en un espacio geométrico de forma puntual y simple las en
 > Dado por puntos en una geometría abrierta, forma de ZigZag con la finalidad de hacerlo lo más simple representativamente. 
 
 Posteriormente definimos el tiempo y su intervalo 
-'''
+```
 h = 0.5; ti = 0; tff = 70;
 T = (ti:h:tff);
-'''
+```
 
 Luego colocamos el método para hacer la integración mediante **odeset**, parte importante del funcionamiento correcto del controlador. 
 
